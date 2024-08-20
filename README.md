@@ -2,6 +2,8 @@
 
 Official PyTorch implementation of [Semi-Supervised Semantic Segmentation Using Unreliable Pseudo Labels](https://arxiv.org/abs/2203.03884), CVPR 2022.
 
+:bell::bell::bell: The extension of this paper ([U2PL+](https://arxiv.org/abs/2306.02314)) has been accepted by **IJCV**! :bell::bell::bell:
+
 Please refer to our **[project page](https://haochen-wang409.github.io/U2PL/)** for qualitative results.
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/semi-supervised-semantic-segmentation-using-2/semi-supervised-semantic-segmentation-on-21)](https://paperswithcode.com/sota/semi-supervised-semantic-segmentation-on-21?p=semi-supervised-semantic-segmentation-using-2)
